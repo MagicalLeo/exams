@@ -4,3 +4,5 @@
 [submodule "learning-cxx"]
 	path = learning-cxx
 	url = https://github.com/LearningInfiniTensor/learning-cxx.git
+[submodule "https://github.com/MagicalLeo/learning-cxx.git"]
+	branch = origin
