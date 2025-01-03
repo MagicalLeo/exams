@@ -3,4 +3,4 @@
 	url = https://github.com/MagicalLeo/test-repo.git
 [submodule "learning-cxx"]
 	path = learning-cxx
-	url = https://github.com/MikanAffine/learning-cxx.git
+	url = https://github.com/LearningInfiniTensor/learning-cxx.git
