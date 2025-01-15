@@ -5,9 +5,6 @@
 [submodule "learning-cxx"]
 	path = learning-cxx
 	url = https://github.com/MagicalLeo/learning-cxx.git
-[submodule "TinyInfiniTensor"]
-	path = TinyInfiniTensor
-	url = https://github.com/MagicalLeo/TinyInfiniTensor.git
 [submodule "learning-lm-rs"]
 	path = learning-lm-rs
 	url = https://github.com/MagicalLeo/learning-lm-rs.git
